@@ -6,6 +6,7 @@ import { ThemeProvider } from "@emotion/react";
 // Pages
 import Home from "../pages/Home";
 import Profile from "../pages/Profile";
+import People from "../pages/SeeMore";
 
 // Templates
 import NavbarMain from './NavbarMain';
@@ -98,6 +99,7 @@ function App() {
                             <Route exact path="/user/saved" element={<Profile />} />
                             <Route exact path="/user/tagged" element={<Profile />} />
                         </Route>
+                        <Route exact path="/people" element={<People />} />
                         <Route path="*" element={<ThinText text="Nothing found..." />} />
                     </Routes>
                 </main>

@@ -1,0 +1,40 @@
+{
+    "users":[
+        {
+            "fullName": "Johnas Christensen",
+            "userName": "JohnasCN",
+            "følgesAf": "Sebastian4u",
+            "id": 1
+        },
+        {
+            "fullName": "Kasper Carlsen",
+            "userName": "KasCar32",
+            "følgesAf": "TrisTan43",
+            "id": 2 
+        },
+        {
+            "fullName": "Emilie Skovgaard",
+            "userName": "EmiliesGaard",
+            "følgesAf": "SovseKongen4690",
+            "id": 3
+        },
+        {
+            "fullName": "Kevin Kevsen",
+            "userName": "Kevsen121",
+            "følgesAf": "JesperNiles",
+            "id": 4
+        },
+        {
+            "fullName": "Jens Nielsen",
+            "userName": "JensNiller",
+            "følgesAf": "Gotham_Fan",
+            "id": 5
+        },
+        {
+            "fullName": "Caia bjørnvig",
+            "userName": "Imagine.Ocha",
+            "følgesAf": "daniel_enrique_1",
+            "id": 6
+        }
+    ]
+}

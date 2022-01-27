@@ -1,6 +1,7 @@
 /** @jsxImportSource @emotion/react */
 import { css, useTheme } from "@emotion/react";
 import Data from "../json/Suggestions.json";
+import { Link } from "react-router-dom";
 
 function suggestionProfile() {
   const styles = css`
@@ -84,7 +85,7 @@ function suggestionProfile() {
         a{
           font-size:12px;
           position:relative;
-          left:90px;
+          left:45px;
         }
       }
 
@@ -182,7 +183,7 @@ function suggestionProfile() {
         {/* Recommended text */}
         <div className="suggestions__recommended_main">
           <div className="suggestions__recommended_text">Forslag til dig</div>
-          <a href="#"><div>Se alle</div></a>
+          <a href=""><Link to="/people"><div>Se alle</div></Link></a>
         </div>
         {/* Recommended text */}
 
