@@ -1,7 +1,7 @@
 # Instagram-remade
 
 ## Made by:
-- Daniel
+- Dusty707
 
 ## Collaborators
 
