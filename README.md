@@ -5,9 +5,9 @@
 
 ## Collaborators
 
-- William
-- Mathias
-- Aske
+- William: https://github.com/WilliamDeckmann
+- Mathias: https://github.com/LP-II
+- Aske: https://github.com/Dragonashes
 
 ## links
 
