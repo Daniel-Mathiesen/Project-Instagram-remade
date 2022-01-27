@@ -6,7 +6,6 @@
 - William
 - Mathias
 - Aske
-- (Mads)
 
 ## links
 
