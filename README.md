@@ -1,8 +1,10 @@
-# instagram-clone
+# Instagram-remade
+
+## Made by:
+- Daniel/Caia
 
 ## Collaborators
 
-- Daniel/Caia
 - William
 - Mathias
 - Aske
