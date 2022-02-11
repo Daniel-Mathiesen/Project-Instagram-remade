@@ -1,7 +1,5 @@
 # Instagram-remade
 
-##
-
 Website - https://project-instagram-remake.netlify.app
 
 ## Made by:
