@@ -2,7 +2,7 @@
 
 ##
 
-Website- project-instagram-remake.netlify.app
+Website - https://project-instagram-remake.netlify.app
 
 ## Made by:
 - Dusty707
