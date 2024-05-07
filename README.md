@@ -3,7 +3,7 @@
 Website - https://project-instagram-remake.netlify.app
 
 ## Made by:
-- Dusty707
+- Daniel.M
 
 ## Collaborators
 
